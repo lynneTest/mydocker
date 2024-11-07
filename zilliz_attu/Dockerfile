@@ -1,1 +1,1 @@
-From zilliz/attu:2.4.7
+From zilliz/attu:2.4
