@@ -1,1 +1,1 @@
-From zilliz/attu:2.4
+From zilliz/attu:latest
